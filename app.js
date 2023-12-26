@@ -24,7 +24,6 @@ db.query('select * from test1', (error, result) => {
     // console.log(result);
 });
 
-// 우하하 안되는데 ㅌㅌㅌㅌ
 // 라우팅
 
 app.get('/', (req, res) => {
